@@ -1,2 +1,3 @@
 # DemoWebShop_API_test
-API test using Rest Assured + Java
+API tests using Rest Assured + Java
+http://demowebshop.tricentis.com/
